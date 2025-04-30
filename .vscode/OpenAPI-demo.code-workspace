@@ -12,5 +12,9 @@
 			"path": "backend",
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"apimodel"
+		]
+	}
 }
