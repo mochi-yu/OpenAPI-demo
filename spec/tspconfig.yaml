@@ -5,5 +5,5 @@ options:
     emitter-output-dir: "{output-dir}"
     output-file: "{service-name}.{version}.spec.yaml"
     openapi-versions:
-      - 3.1.0
+      - 3.0.0
 output-dir: "{project-root}/../"
