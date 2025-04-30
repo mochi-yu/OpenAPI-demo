@@ -6,4 +6,4 @@ options:
     output-file: "{service-name}.{version}.spec.yaml"
     openapi-versions:
       - 3.1.0
-output-dir: "{project-root}/openapi"
+output-dir: "{project-root}/../"
